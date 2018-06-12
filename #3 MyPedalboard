@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+</head>
+<body>
+
+<section>
+
+<h1>My Pedalboard</h1>
+
+<article>
+<h2>PODHD500X</h2>
+<p>Line 6 is upping the game, once again, with the Line 6 POD HD500X guitar effects processor. 
+  Already one of the most popular and powerful guitar processors on the planet, the POD HD has been updated with an even more powerful CPU. 
+  Professional-grade, backlit footswitches let you easily see what effects and settings you are using, even on dark stages.
+  Add to that a brighter display and you have the most user-friendly POD yet.</p>
+</article>
+
+<article>
+<h2>TubeScreammer</h2>
+<p>The Ibanez Tube Screamer (TS9/TS808) is a guitar overdrive pedal, made by Ibanez.
+   The pedal has a characteristic mid-boosted tone popular with blues and rock players.
+   The "legendary" Tube Screamer has been used by countless guitarists to create their signature sound,
+   and is one of the most successful, widely copied, and "modded" overdrive pedals in the history of the electric guitar.</p>
+</article>
+
+<article>
+<h2>BigSky</h2>
+<p>Plug into BigSky and instantly lift your sound into the stratosphere.
+   The world below you fades into the distance, and you’re elevated into a glow of lush,
+   glorious, radiant reverbs.</p>
+<article>
+
+</section>
+
+</body>
+</html>
