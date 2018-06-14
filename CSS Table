@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#Price Pedalboard {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width:100%;
+}
+#Costumers td, #custumers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#PedalName tr:nth-child(even){background-color: #f2f2f2;}
+
+#PedalName tr:hover {backgrond: #ddd;}
+
+#PedalName th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+  
+}
+</style>
+</head>
+<body>
+
+<table id="Pedalboard">
+  <tr>
+    <th>PedalName</th>
+    <th>Price</th>
+  </tr>
+<tr>
+  <td>Helix-Line 6</td>
+  <td>$1500</td>
+</tr>
+<tr>
+  <td>BigSky-Strymon</td>
+  <td>$475</td>
+</tr>
+<tr>
+  <td>TempleBoard-Trio28</td>
+  <td>$200</td>
+</tr>
+</table>
+
+</body>
+</html>
+  
+
+</body>
+</html>
