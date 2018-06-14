@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.gallery{
+  margin:5px;
+  border:1px solid #ccc;
+  float:left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.desc{
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target=" blank" href="Dream.png">
+    <img src="Dream.png" alt="Dream Pedalboard"
+    width="300" height="200">
+  </a>
+  <div class="desc">Dream Pedalboard</div>
+</div>
+
+<div class="gallery">
+  <a target=" blank" href="Line-6-helix-guitar-processor-317641.jpg">
+    <img src="Line-6-helix-guitar-processor-317641.jpg" alt="Helix"
+      width="600" height="400">
+    </a>
+    <div class="desc">Helix Line 6</div>
+  </div>
+
+<div class="gallery">
+  <a target="blank" herf="1599869533594837640c342.jpg">
+  <img src="1599869533594837640c342.jpg" alt="Arturia MiniLab"
+  width="400" height"600">
+</a>
+<div class="desc">Arturia MiniLab</div>
+</div>
+
+<div class="gallery">
+  <a target="blank" herf="81Mbl9LGuoL._SL1500_.jpg">
+  <img src="1599869533594837640c342.jpg" alt="Scarllet Interface"
+  width="300" height"200">
+</a>
+<div class="desc">Scarllet Interface</div>
+</div>
+
+
+</body>
+</html>
