@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+.center{
+  color:red;
+  text-align: center;
+}
+
+p.large{
+  font-size: 300%
+}
+</style>  
+</head>
+<body>
+
+<h1 class="center">Red and center-aligned heading</h1>
+<p>These paragraph are styled with CSS.</p>
+<p class="center large">This paragraph will be red, center-aligned, and in large font-size.</p>
+
+</body>
+</html>
