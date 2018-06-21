@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- w3-content defines a container for fixed size centered content,
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32">
+  <h1><b>DAVID HF</b></h1>
+  <p>Welcome to my Blog <span class="w3-tag">DHF1044</span></p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    <img src="WorshipSeriesTitleSlide.jpg" alt="Worship" style="width:100%">
+    <div class="w3-container">
+      <h3><b>Worship</b></h3>
+      <h5>To Worship GOD I live, <span class="w3-opacity">JOHN 3:30</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>We are in the world to Worship God, this is the  perfect way to express all our gratitude.</p>
+      <P>John 3:30 Says "He must become greater; I must become less", that's the key for everything.</p>
+      <div class="w3-row">
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-cyan">
+  <img src="IMG_20171211_183453145.jpg" alt="Norway" style="width:100%">
+    <div class="w3-container">
+      <h3><b>#GuitarPedal'sLover</b></h3>
+      <h5>My pedalboard, <span class="w3-opacity">June 18, 2018</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>I started to play guitar in 2012, one year latter I bought my first guitar pedal (BOSS Ds-1), it sound was terrible, in this time I didn't know so much abouut guitar effects, but my love for pedals starts with this pedal.
+        My First guitar processor was a RP255 it sound is amazing. Actuallity I continue use this pedal but  with more pedals.
+        My Favorite guitar pedal is an Eventide TimeFactor, if I need to choice one pedal to play guitar all my life, it could be a Timefactor.
+        Every pedal have a Story, but in all my gear a can see the power of GOD in my life, because he always be there to supply all my needs..</p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>#Pedalboard »</b></button></p>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+          <p><span class="w3-padding-large w3-right"><b>#DHF1044  </b> <span class="w3-badge"></span></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- END BLOG ENTRIES -->
+</div>
+
+<!-- Introduction menu -->
+<div class="w3-col l4">
+  <!-- About Card -->
+  <div class="w3-card w3-margin w3-margin-top">
+  <img src="Screenshot_20170105-140622.png" style="width:100%">
+    <div class="w3-container w3-cyan">
+      <h4><b>About Me.....</b></h4>
+      <p>-Worship Leader</p>
+      <p>-Preacher's Kid</p>
+      <p>-Guitar Player</p>
+    </div>
+  </div><hr>
+
+  <!-- Posts -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Posts</h4>
+    </div>
+    <ul class="w3-ul w3-hoverable w3-white">
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <img src="devotions.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#Personal Relationship with God</span><br>
+        <span>Tips and more...</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="how-to-talk-to-god_825_460_80_c1.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#How to talk to GOD</span><br>
+        <span>Guide</span>
+      </li>
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <img src="1*xl61J5mkakT-FI4a0hJ_ng.jpeg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#Everything is a part of a purpose</span><br>
+        <span>Isaiah 55:9.</span>
+      </li>
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <img src="prayer.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#ThePowerOfPrayer</span><br>
+        <span>Jeremiah 29:12.</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="IMG_20170527_123727102.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#Worship esscence</span><br>
+        <span>My Experience</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="index.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#Dream Pedalboard</span><br>
+        <span>All the pedals</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="bigsky__43068.1478898546.386.513.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#BigSky</span><br>
+        <span>BigSky History</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="TimeFactor-large.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#Timefactor</span><br>
+        <span>Secrets and Tips</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="RP255_Top_original.jpg"alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">#Rp255</span><br>
+        <span>Patches</span>
+      </li>
+  </ul>
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-cyan">
+      <h4>#I Want You To Know The God I Know</h4>
+    </div>
+  </div>
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-gray">
+      <h4>#When your knees touch the ground your heart will touch the sky</h4>
+    </div>
+  </div>
+  <hr>
+
+
+</body>
+</html>
