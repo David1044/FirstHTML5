@@ -1,0 +1,34 @@
+<section class="section section-lg bg-default text-center">
+        <div class="container">
+          <h6 class="text-gray-600">latest videos from me and my colleagues</h6>
+          <h2>recent videos</h2>
+          <!--Bootstrap tabs-->
+          <div class="tabs-custom tabs-vertical tabs-video" id="tabs-2">
+            <!--Tab panes-->
+            <div class="tab-content">
+              <div class="tab-pane fade show active" id="tabs-2-1">
+                <div class="entry-video embed-responsive embed-responsive-16by9">
+                  <iframe width="886" height="668" src="//www.youtube.com/embed/4gRjnaitguQ" allowfullscreen=""></iframe>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="tabs-2-2">
+                <div class="entry-video embed-responsive embed-responsive-16by9">
+                  <iframe width="886" height="668" src="//www.youtube.com/embed/mfMR-URQl80" allowfullscreen=""></iframe>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="tabs-2-3">
+                <div class="entry-video embed-responsive embed-responsive-16by9">
+                  <iframe width="886" height="668" src="//www.youtube.com/embed/xweHsBLcqp4" allowfullscreen=""></iframe>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="tabs-2-4">
+                <div class="entry-video embed-responsive embed-responsive-16by9">
+                  <iframe width="886" height="668" src="//www.youtube.com/embed/V3pPMUmIxAc" allowfullscreen=""></iframe>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="tabs-2-5">
+                <div class="entry-video embed-responsive embed-responsive-16by9">
+                  <iframe width="886" height="668" src="//www.youtube.com/embed/N1DEOCUujUg" allowfullscreen=""></iframe>
+                </div>
+              </div>
+            </div>
